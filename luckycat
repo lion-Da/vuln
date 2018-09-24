@@ -1,0 +1,3 @@
+从cve20102388学到的东西
+1：ROP的gadget可以从程序自带dll中选择
+2：精准ROP配合堆喷完成exploit
